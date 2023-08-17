@@ -3,7 +3,6 @@ from tkinter import *
 import random
 from tkinter import messagebox
 
-
 root = tk.Tk()
 root.title ('Aceitas?')
 root.geometry('600x600')
